@@ -1,4 +1,5 @@
-<img src=“https://github.com/omkar2398/Calculator-Frontend-React.js/blob/main/App.png”>
+<h1>App Design</h1>
+<img src="https://github.com/omkar2398/Calculator-Frontend-React.js/blob/main/App.png">
 
 # Getting Started with Create React App
 
