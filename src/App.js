@@ -1,9 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "./index.css";
 
 import NavbarComponent from "../src/components/Navbar.component";
-import Calci from "../src/components/Calci.component";
+import KeypadComponent from "./components/Keypad.component";
+import InputComponent from "./components/Input.component";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       <div className="">
         <NavbarComponent />
         <div className="container my-3">
-          <Calci />
+          <InputComponent />
+          <KeypadComponent />
         </div>
       </div>
     </Router>
