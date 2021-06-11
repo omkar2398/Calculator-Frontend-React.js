@@ -1,4 +1,4 @@
-![Alt text](<C:\Users\omkar\Pictures\Screenshots\Screenshot(340).png?raw=true> "Screenshot")
+(<C:\Users\omkar\Pictures\Screenshots\Screenshot(340).png?raw=true> "Screenshot")
 
 # Getting Started with Create React App
 
