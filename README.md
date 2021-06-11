@@ -1,4 +1,4 @@
-![App Image](<C:\Users\omkar\Pictures\Screenshots\Screenshot(340).png>)
+![App Image](C:\Users\omkar\Desktop\calculator\App.png)
 
 # Getting Started with Create React App
 
